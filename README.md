@@ -16,3 +16,7 @@ Python’un temel yapı taşlarını öğrenmek ve ileride veri bilimi, yapay ze
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
+
+Bu repodaki kodların büyük kısmı İstanbul Üniversitesi Python eğitim videolarını izleyerek öğrenme sürecimde yazılmıştır. 
+Bazı örnekler eğitimdeki kodlardan uyarlanmış, bazıları ise kendi eklediğim örneklerdir.
+
